@@ -18,6 +18,7 @@ Create a local **.env** file and insert the following:
  - openport should be a number for an open port on your machine.
 ```
 PORT=<openport>
+DATABASE_URL=postgres://localhost:5432/DBNAME
 ```
 
 ### Step 3:
