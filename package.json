@@ -1,0 +1,24 @@
+{
+  "name": "faketwitter",
+  "version": "0.0.1",
+  "description": "A personal project to make a twitter like clone",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanjmurray/fakeTwitter.git"
+  },
+  "author": "Sean Murray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanjmurray/fakeTwitter/issues"
+  },
+  "homepage": "https://github.com/seanjmurray/fakeTwitter#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "pg": "^8.2.1"
+  }
+}
