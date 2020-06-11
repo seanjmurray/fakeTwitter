@@ -20,7 +20,7 @@ Create a local **.env** file and insert the following:
 PORT=<openport>
 DATABASE_URL=postgres://localhost:5432/DBNAME
 ```
-
+ - postgres link provided for mac OS
 ### Step 3:
 To start the server run the following in the terminal:
 
