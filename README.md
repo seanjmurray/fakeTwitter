@@ -1,6 +1,6 @@
 # fakeTwitter
 **Author**: Sean Murray
-**Version**: 0.0.1 
+**Version**: 0.0.3 
 
 ## Overview
 This is a personal project to build a simple twitter clone.
@@ -45,10 +45,12 @@ This app will have a login page to access your feed of posts and find new people
  - dotenv
  - pg
  - bcrypt
+ - ejs
 
 ## Change Log
  - 06-10-2020 2323 - Initial commit of files.
  - 06-12-2020 2045 - Add bcrypt and start the login and register backend routes.
+ - 06-13-2020 0039 - Add login post and get routes, Register post and get routes.
  
 
 ## Credits and Collaborations
